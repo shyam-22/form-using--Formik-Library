@@ -1,0 +1,16 @@
+.input{
+    border-radius: 15px solid red;
+    border: 1px solid rgb(112, 37, 187);
+} 
+
+input.error{
+    border-color: red;
+}
+
+.input-feedback{
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+

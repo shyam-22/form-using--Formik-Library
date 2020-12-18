@@ -1,0 +1,30 @@
+//...............Props of Formik....................
+handleChange: ƒ ()
+handleReset: ƒ ()
+handleSubmit: ƒ ()
+
+//
+initialErrors: {}
+initialStatus: undefined
+initialValues: {email: "", password: ""}
+isSubmitting: false
+isValid: true
+isValidating: false
+
+//
+setErrors: ƒ (errors)
+setFieldError: ƒ (field, value)
+setFieldTouched: ƒ ()
+setFieldValue: ƒ ()
+setFormikState: ƒ (stateOrCb)
+setStatus: ƒ (status)
+setSubmitting: ƒ (isSubmitting)
+setTouched: ƒ ()
+setValues: ƒ ()
+
+//
+validateField: ƒ ()
+validateForm: ƒ ()
+validateOnBlur: true
+validateOnChange: true
+validateOnMount: false
